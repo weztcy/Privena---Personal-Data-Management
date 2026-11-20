@@ -20,10 +20,7 @@
   "accentColor": "amber",
   "repoUrl": "https://github.com/weztcy/Privena---Personal-Data-Management",
   "license": "MIT License",
-  "imageUrl": "/images/projects/privena_personal_data_management/banner.webp",
-  "images": [
-    "/images/projects/privena_personal_data_management/banner.webp"
-  ],
+  "banner": "/images/projects/privena_personal_data_management/banner.webp",
   "summary": "Native Android personal vault app utilizing Realm DB and Firebase to store and manage sensitive credentials offline with secure cloud authentication.",
   "projectDescription": "Privena is a native Android personal data vault built with Java and Realm DB, engineered to safeguard sensitive personal notes and credentials. It features seamless Firebase Authentication, instant local record manipulation, persistent auto-login sessions, and zero-latency reactive UI updates.",
   "architectureSummary": "Reactive client-side architecture combining Realm DB local persistence, Firebase cloud authentication, and Android ViewBinding.",
